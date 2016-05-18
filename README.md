@@ -1,4 +1,4 @@
-# This is DesignBold bug tracking system
+# DesignBold bug tracking system
 
 Hi, we are DesignBold Team at https://www.designbold.com/
 
